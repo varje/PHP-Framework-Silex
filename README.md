@@ -1,3 +1,6 @@
+# Silex project Booking App
+Done in school subject according to teacher instructions.
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
@@ -37,7 +40,3 @@ composer install
 * [Twig](http://twig.sensiolabs.org/) - Php template engine
 * [Doctrine DBAL](http://docs.doctrine-project.org/projects/doctrine-dbal/en/latest/index.html) - Database connection
 
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning.
